@@ -23,3 +23,4 @@ Widelands|RTS|Settlers II||https://www.widelands.org/|2020|||||+|8/9||
 TORCS|race||nem|https://sourceforge.net/projects/torcs/|2016|||+|||4/9||
 VDrift|race||nem|https://en.wikipedia.org/wiki/VDrift|2014|||+|||4/9||
 Endless Sky|RTS|Elite, Escape Velocity, Star Control|nem|https://github.com/endless-sky/endless-sky|2020|||||+|?||
+FlightGear|FGFS|Flight Simulator||https://en.wikipedia.org/wiki/FlightGear|2020|||||+|||
