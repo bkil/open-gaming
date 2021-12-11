@@ -1,9 +1,13 @@
 # Terminálból játszható játékok
 
-ASCII grafika, konzol, ncurses, ssh
+ASCII grafika, konzol, ncurses, ssh.
+
+Ahol nincs URL, csak `idézett kód`, az az Ubuntu csomagkezelőjéből is telepíthető az adott csomagnévvel.
+Az szintén meg van jelölve ahol parancssori paraméter választja ki a terminál kimenetet.
 
 ## Akció
 
+* https://github.com/ravener/0verkill - oldalnézet lövöldözős
 * `asciijump` - síelős, de nem sikerült rájönni
 * `bombardier` - Commodore 16/Plus 4 Blitz16
 * `matanza` - űrhajós, AI-val nem sikerült rájönni hogy kell játszani, pedig szép lenne
@@ -23,6 +27,7 @@ ASCII grafika, konzol, ncurses, ssh
 
 * `dopewars -t` - gazdasági szimuláció
 * `empire` - sztochasztikus [stratégiai](https://en.wikipedia.org/wiki/Empire_(1977_video_game)
+* https://www.zap.org.au/projects/trader/ LAN multiplayer max. 8 játékossal
 
 ### Valós idejű stratégia
 
@@ -85,5 +90,4 @@ sort
 
 * Pitman (Tristar, 2004) - ennek nem jutott eszembe a neve, <3kB 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
 * https://en.wikipedia.org/wiki/Dwarf_fortress
-* https://github.com/ravener/0verkill - oldalnézet lövöldözős
 * https://blends.debian.org/junior/tasks/games-text
