@@ -1,6 +1,6 @@
 # Terminálból játszható játékok
 
-ASCII grafika, konzol, ncurses, ssh.
+ASCII grafika, terminál emulátor, parancssori konzol, ncurses, AAlib, libAA, ssh.
 
 Ahol nincs URL, csak `idézett kód`, az az Ubuntu csomagkezelőjéből is telepíthető az adott csomagnévvel.
 Az szintén meg van jelölve ahol parancssori paraméter választja ki a terminál kimenetet.
@@ -48,6 +48,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `cavezofphear` - szórakoztató [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_dash) ([Supaplex](https://en.wikipedia.org/wiki/Supaplex)) klón
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
+* Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
 * `sudoku`
 
 ## Játékszer
@@ -55,7 +56,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `bb -driver curses` - animáció
 * `bsdgames`: arithmetic, bcd, caesar, countmail, morse, number, pig, pom, ppt, primes, random, rain, rot13, wargames, worms, wtf
 * `robotfindskitten`
-* `xaos -driver aa -aadriver list` - fraktálok
+* `xaos -driver aa -aadriver curses` - fraktálok
 * `zivot` - Convey's game of life
 
 ## Roguelike
@@ -88,6 +89,5 @@ sort
 
 ## Hivatkozások
 
-* Pitman (Tristar, 2004) - ennek nem jutott eszembe a neve, <3kB 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
 * https://en.wikipedia.org/wiki/Dwarf_fortress
 * https://blends.debian.org/junior/tasks/games-text
