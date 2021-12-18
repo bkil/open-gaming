@@ -15,13 +15,17 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `moon-buggy` - lukakat kell átugrani oldalnézetben
 * `nsnake` - csigavonal
 * `pacman4console` - Pacman
+* `piu-piu` - hálózati több játékos oldalnézet lövöldözős
 
 ### Tetris
 
 * `bastet`
 * `netris`
 * `petris`
+* `termtris`
+* `tetrinet-client`, `tetrinet-server`, `tetrinetx`
 * `tint`
+* `vitetris`
 
 ## Stratégia
 
@@ -35,33 +39,44 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ### Táblás
 
+* `el-ixir` - (inspiráció: Isoft, 1981)
+* `fairymax` - sakk
+* `gnubg` - Backgammon
+* `gnugo` - Go
 * `gnushogi -C` - Japán sakk
 * `gnuminishogi -C` - 5x5 Japán sakk
+* `mgt` - Go táblaszerkesztő és kiértékelő
 * `nettoe` - tic tac toe
 * `pente -curses` - ötödölő
 * `sjaakii` - sakk
+* `werewolf` - JSON felülete van, manuálisan többjátékos, gépi játékos nélkül, inspiráció: "Mafia"
 
 ## Rejtvény
 
 * `animals` - betanítható barkóba
-* `atom4 -mt`
+* `atom4 -mt` - 2 játékos
+* `cavepacker` - több játékos hálózati Sokoban
 * `cavezofphear` - szórakoztató [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_dash) ([Supaplex](https://en.wikipedia.org/wiki/Supaplex)) klón
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
 * Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
+* `killbots` ~BSD robots
+* `nudoku` - Sudoku
 * `sudoku`
 
-## Játékszer
+## Kaland
 
-* `bb -driver curses` - animáció
-* `bsdgames`: arithmetic, bcd, caesar, countmail, morse, number, pig, pom, ppt, primes, random, rain, rot13, wargames, worms, wtf
-* `robotfindskitten`
-* `xaos -driver aa -aadriver curses` - fraktálok
-* `zivot` - Convey's game of life
+* `open-adventure`
 
-## Roguelike
+### Roguelike
 
 * `angband -mgcu` - nethack/Moria/Rogue
+* `cataclysm-dda-curses`
+* `crawl`
+* `gearhead`
+* `gearhead2`
+* `lambdahack`
+* `moria`
 * `slashem` - Dungeons & Dragons labirintus (Rogue, ADOM, Nethack)
 * `tome -mgcu`
 * `nethack-console`
@@ -72,20 +87,37 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 * `typespeed`
 
+## Oktató
+
+* `dds` - bridzs játékelemző
+* `deal` - bridzs játékelemző
+* `dealer` - bridzs játékelemző
+* `dvorak7min`
+* `gtypist`
+* `speedpad`
+
+### Kvíz
+
+* `purity`, `purity-ng`, `purity-off`: kvíz
+
 ## Vegyes
 
 * `bsdgames`: adventure, atc, backgammon, battlestar, boggle, canfield, cribbage, dab, go-fish, gomoku, hack, hangman, hunt, mille, monop, phantasia, quiz, robots, sail, snake, tetris-bsd, trek, worm, wump
 
+## Játékszer
+
+* `aajm` - zsonglőrködéshez (jugglemaster)
+* `ansiweather` - színes időjárás
+* `asciiart` - kép ASCII rajzzá alakítása
+* `bb -driver curses` - animáció
+* `bsdgames`: arithmetic, bcd, caesar, countmail, morse, number, pig, pom, ppt, primes, random, rain, rot13, wargames, worms, wtf
+* `robotfindskitten`
+* `xaos -driver aa -aadriver curses` - fraktálok
+* `zivot` - Convey's game of life
+
 ## Lekérdezés
 
-```
-apt-cache search "`apt-cache rdepends \
- libaa1 libncurses5 libncurses6 |\
-sort -u |\
-sed 's/^[ |]*/^/; s/$/$/' |\
-sed ':l; N; s/\n/|/; t l'`" |\
-sort
-```
+* [find-ascii-games.sh](find-ascii-games.sh)
 
 ## Hivatkozások
 
