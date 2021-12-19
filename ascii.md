@@ -1,6 +1,6 @@
 # Terminálból játszható játékok
 
-ASCII grafika, terminál emulátor, parancssori konzol, ncurses, AAlib, libAA, ssh.
+ASCII grafika, terminál emulátor, parancssori konzol, ncurses, AAlib, CACAlib, libAA, ssh.
 
 Ahol nincs URL, csak `idézett kód`, az az Ubuntu csomagkezelőjéből is telepíthető az adott csomagnévvel.
 Az szintén meg van jelölve ahol parancssori paraméter választja ki a terminál kimenetet.
@@ -27,7 +27,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `tint`
 * `vitetris`
 
-## Stratégia
+## Szimulációs stratégia
 
 * `dopewars -t` - gazdasági szimuláció
 * `empire` - sztochasztikus [stratégiai](https://en.wikipedia.org/wiki/Empire_(1977_video_game)
@@ -49,7 +49,8 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `nettoe` - tic tac toe
 * `pente -curses` - ötödölő
 * `sjaakii` - sakk
-* `werewolf` - JSON felülete van, manuálisan többjátékos, gépi játékos nélkül, inspiráció: "Mafia"
+* `werewolf` - JSON felülete van, manuálisan többjátékos, gépi játékos nélkül, inspiráció: Gyilkosos (Maffia, Vérfarkas)
+  * https://en.wikipedia.org/wiki/Mafia_(party_game)
 
 ## Rejtvény
 
@@ -60,7 +61,6 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
 * Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
-* `killbots` ~BSD robots
 * `nudoku` - Sudoku
 * `sudoku`
 
@@ -92,9 +92,9 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `dds` - bridzs játékelemző
 * `deal` - bridzs játékelemző
 * `dealer` - bridzs játékelemző
-* `dvorak7min`
-* `gtypist`
-* `speedpad`
+* `dvorak7min` - gépelésoktató
+* `gtypist` - gépelésoktató
+* `speedpad` - gépelésgyakorló
 
 ### Kvíz
 

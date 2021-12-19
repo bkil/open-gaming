@@ -53,16 +53,32 @@ keep_unique_lines() {
 }
 
 get_graphic_apps() {
+  # This is an underestimate because an app may rarely rely on sysctl as well or
+  # be compiled with static linking.
+
   apt-cache \
     --no-recommends --no-suggests --no-conflicts --no-breaks --no-replaces --no-enhances \
     --recurse rdepends \
-    libxau6 libxdmcp6 libdrm-common |
+    libxau6 libxdmcp6 \
+    libwayland-client0 libwayland-egl1 libwayland-egl1-mesa \
+    libdrm-common libglvnd0 libglapi-mesa \
+    libglide3 \
+    libecore-fb1 \
+    libdirectfb-1.2-9 libdirectfb-1.7-7 \
+    libomxil-bellagio0 \
+    |
   sed "s/^[ |]*//" |
   grep -v ":" |
   sort -u
 }
 
 get_libtinfo_rdeps() {
+  # This is an underestimate because other libraries may exist and
+  # an app may also control a terminal with direct I/O or
+  # be compiled with static linking.
+  # This is an overestimate because some apps or libraries may have loose
+  # dependency linking and may not provide a TUI interface per se to the user.
+
   # TODO: we could find more candidates if we filtered out SDL & Python from recursion:
   #       apt-cache --recurse rdepends libtinfo5 libtinfo6 |
 
@@ -111,16 +127,20 @@ prune_if_has_children() {
   grep -A 1 "^[^ ]" |
   grep -v "^--$" |
   tac |
+  skip_line_after_indented_line |
+  tac
+}
+
+skip_line_after_indented_line() {
   sed -n "
     s~^ ~~
-    T p
-    n
-    b e
-    :p
-    p
-    :e
-  " |
-  tac
+    T print
+      n
+      b exit
+    :print
+      p
+    :exit
+  "
 }
 
 show_package_details() {
