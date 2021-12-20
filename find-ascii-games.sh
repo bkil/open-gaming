@@ -87,6 +87,7 @@ get_libtinfo_rdeps() {
     libaa1 libcaca0 \
     libncurses5 libncurses6 libncursesw5 libncursesw6 libcdk5 libcdk5nc6 \
     libcwidget3v5 libglktermw-dev libgnt0 \
+    libgpm2 \
    libyascreen0 \
    libslang2 libslang2-modules libnewt0.52 \
    golang-github-muesli-termenv-dev golang-pault-go-technicolor-dev \
