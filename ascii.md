@@ -37,7 +37,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * AstWar - 2 űrhajó lövöldözi egymást
   * https://savannah.nongnu.org/projects/astwar
 * `bombardier` - Commodore 16/Plus 4 Blitz16
-* `lexter` - tetris szavakkal (2001)
+* lexter - tetris szavakkal (2001)
   * https://www.kyne.com.au/~mark/software/lexter.php
 * `matanza` - űrhajós, AI-val nem sikerült rájönni hogy kell játszani, pedig szép lenne
 * `moon-buggy` - lukakat kell átugrani oldalnézetben (inspiráció: [moon-patrol](http://en.wikipedia.org/wiki/Moon_Patrol))
@@ -126,7 +126,9 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
   * https://github.com/tmewett/BrogueCE
 * `cataclysm-dda-curses`
   * https://github.com/CleverRaven/Cataclysm-DDA
-* `crawl`
+* `crawl` Dungeon Crawl: Stone Soup
+  * https://github.com/crawl/crawl
+  * https://crawl.develz.org/
 * `gearhead`
 * `gearhead2`
 * `lambdahack`
