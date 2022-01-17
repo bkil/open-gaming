@@ -66,7 +66,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 * `dopewars -t` - gazdasági szimuláció
 * `empire` - sztochasztikus (VMS Empire vagy Classic Empire)
-  * https://en.wikipedia.org/wiki/Empire_(1977_video_game
+  * https://en.wikipedia.org/wiki/Empire_(1977_video_game)
 * Intricacy - körökre osztott zárfeltörő rejtvény
   * http://mbays.freeshell.org/intricacy/
 * Star Traders - LAN multiplayer max. 8 játékossal
@@ -105,7 +105,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * ASCIIpOrtal
   * https://github.com/cymonsgames/ASCIIpOrtal
 * `atom4 -mt` - 2 játékos
-* `cavepacker` - több játékos hálózati Sokoban
+* `cavepacker` - több játékos hálózati Sokoban - **FIXME: nem megy parancssorból mert SDL ablakba rajzol!!**
 * `cavezofphear` - szórakoztató [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_dash) ([Supaplex](https://en.wikipedia.org/wiki/Supaplex)) klón
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
