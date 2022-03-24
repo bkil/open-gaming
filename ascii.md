@@ -39,7 +39,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `bombardier` - Commodore 16/Plus 4 Blitz16
 * lexter - tetris szavakkal (2001)
   * https://www.kyne.com.au/~mark/software/lexter.php
-* `matanza` - űrhajós, AI-val nem sikerült rájönni hogy kell játszani, pedig szép lenne
+* `matanza` - űrben játszódik, aszteroidák, csillagok a háttérben, le kell lőni a többiek űrhajóját (Spacewar!), hálózati többjátékos (`telnet`) és AI
 * `moon-buggy` - lukakat kell átugrani oldalnézetben (inspiráció: [moon-patrol](http://en.wikipedia.org/wiki/Moon_Patrol))
 * MyMan - PacMan klón
   * https://sourceforge.net/projects/myman/
