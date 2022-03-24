@@ -109,7 +109,12 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `cavezofphear` - szórakoztató [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_dash) ([Supaplex](https://en.wikipedia.org/wiki/Supaplex)) klón
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
-* Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja https://www.pouet.net/prod.php?which=12206
+* Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja
+  * hozzászólások https://www.pouet.net/prod.php?which=12206
+  * honlap http://franck.charlet.pagesperso-orange.fr/games.html
+  * eredeti https://en.wikipedia.org/wiki/Catrap#Development_and_release
+  * eredeti tokenizált basic-ben http://www.hardcoregaming101.net/catrap/mz700_pitman.zip
+  * _Pitman (Catrap) puzzle game for Sharp MZ-700 computer in 1985_
 * `nudoku` - Sudoku
 * `sudoku`
 * XorCurses - be kell gyűjteni a maszkokat és meg kell találni a kijáratot
