@@ -4,7 +4,7 @@
 
 * https://www.coolstreaming.us/forum/arcade/game/1485.html
 * https://agar.io/
-* https://paper.io/
+* https://paper-io.com/
 * http://slither.io/
 * https://impossible-mission.krissz.hu/
 * https://curvefever.pro/
