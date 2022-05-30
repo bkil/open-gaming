@@ -33,6 +33,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://planet.freegamedev.net/
 * https://freegamer.blogspot.com/
 * https://gamingonlinux.com/
+* https://www.omgubuntu.co.uk/tag/gaming
 * https://web.archive.org/web/20210423061258/social.freegamedev.net/feed/planet
 * https://web.archive.org/web/20210423042551/https://social.freegamedev.net/feed/devplanet
 
@@ -41,6 +42,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://freegamedev.net/
 * https://ubuntuforums.org/forumdisplay.php?f=93
 * https://reddit.com/r/opensourcegames/
+* https://reddit.com/r/linux_gaming
 
 ### Directories
 
@@ -51,6 +53,9 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://directory.fsf.org/wiki/Category/Game
 * https://wiki.debian.org/Game
 * https://blends.debian.org/junior/tasks/
+* https://software.opensuse.org/packages/Games
+* https://wiki.gentoo.org/wiki/Games
+* https://community.linuxmint.com/software/browse/3
 * https://penguspy.com/
 * https://pygame.org/tags/all
 * https://itch.io/games/free/platform-linux
@@ -72,9 +77,38 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://en.wikipedia.org/wiki/List_of_open-source_video_games
 * https://en.wikipedia.org/wiki/List_of_commercial_video_games_released_as_freeware
 * https://en.wikipedia.org/wiki/List_of_game_engines#Open-source_engines
+* https://en.wikipedia.org/wiki/Category:Linux_games
+* https://en.wikipedia.org/wiki/Source_port
 * https://github.com/leereilly/games/
 * https://packages.debian.org/stable/games/
+* https://wiki.debian.org/Games/Suggested
+* https://www.fedoraproject.org/wiki/Games
+* https://fedoraproject.org/wiki/Games_Lab
+* https://wiki.archlinux.org/title/List_of_games
 * https://github.com/topics/game
+* https://lgames.sourceforge.io/about.php
+* https://reddit.com/r/linux_gaming/wiki/freegames
+* https://www.icculus.org/lgfaq/gamelist.php
+
+### Platforms
+
+* https://en.wikipedia.org/wiki/RetroArch
+* https://github.com/orgs/liflg/repositories
+* http://www.dotslashplay.it/en/start
+* https://gitlab.com/librebob/athenaeum
+
+### Links
+
+* https://wiki.debian.org/Games/Links
+* https://wiki.debian.org/Game
+* https://linux-gaming.kwindu.eu/index.php?title=Main_Page
+
+## Proprietary
+
+* https://lutris.net/
+* https://github.com/derrod/legendary
+* https://steam.fandom.com/wiki/List_of_DRM-free_games
+* https://store.steampowered.com/linux
 
 ### DOS
 
