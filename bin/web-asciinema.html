@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8>
+  <title>((TITLE))</title>
+  <link rel=stylesheet type=text/css href=asciinema-player.css>
+  <style>
+    td {
+      border-right: 1px solid;
+      border-bottom: 1px solid;
+    }
+  </style>
+</head>
+<body>
+  <div id=player></div>
+  <p>((DETAILS))</p>
+
+  <h3>Keyboard controls</h3>
+
+  <table>
+    <tr><td>space<td>play / pause
+    <tr><td>f<td>toggle fullscreen mode
+    <tr><td>← / →<td>rewind by 5 seconds / fast-forward by 5 seconds
+    <tr><td>Shift + ← / Shift + →<td>rewind by 10% / fast-forward by 10%
+    <tr><td>0, 1, 2 ... 9<td>jump to 0%, 10%, 20% ... 90%
+  </table>
+
+  <script src=asciinema-player.min.js></script>
+  <script>
+    'use strict';
+    AsciinemaPlayer.create(
+      '((CAST))',
+      document.getElementById('player'), {
+        cols: ((COLS)),
+        rows: ((ROWS)),
+        autoPlay: true,
+        preload: true,
+        loop: 2,
+        speed: 2,
+        idleTimeLimit: 2,
+        poster: 'npt:0:0',
+        fit: 'none'
+    });
+  </script>
+</body>
+</html>

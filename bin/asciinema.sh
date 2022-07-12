@@ -1,7 +1,7 @@
 #!/bin/sh
 
 [ $# -gt 0 ] || {
-  echo "usage: $0 [executable and arguments]"
+  echo "usage: $0 [executable and arguments]" >&2
   exit 1
 }
 
