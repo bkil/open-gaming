@@ -31,14 +31,20 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 * 0verkill - oldalnézet lövöldözős
   * https://github.com/ravener/0verkill
+* https://github.com/msokalski/ascii-patrol (Moon Patrol)
 * alienware - space invaders
   * http://www.alessandropira.org/alienwave/aw.html
+* https://github.com/macdice/ascii-invaders
 * `asciijump` - oldalnézet síelős, hálózati többjátékos
 * AstWar - 2 űrhajó lövöldözi egymást
   * https://savannah.nongnu.org/projects/astwar
 * `bombardier` - Commodore 16/Plus 4 Blitz16
+* https://sourceforge.net/projects/gnuski/
+* https://github.com/gabrielvictorcf/just-asteroids
 * lexter - tetris szavakkal (2001)
   * https://www.kyne.com.au/~mark/software/lexter.php
+* lunar lander
+  * https://github.com/will-ockmore/ASCII-Lunar-Lander
 * `matanza` - űrben játszódik, aszteroidák, csillagok a háttérben, le kell lőni a többiek űrhajóját (Spacewar!), hálózati többjátékos (`telnet`) és AI
 * `moon-buggy` - lukakat kell átugrani oldalnézetben (inspiráció: [moon-patrol](http://en.wikipedia.org/wiki/Moon_Patrol))
 * MyMan - PacMan klón
@@ -55,7 +61,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 ### Tetris
 
 * `bastet`
-* `netris`
+* `netris` - hálózati többjátékos
 * `petris`
 * `termtris`
 * `tetrinet-client`, `tetrinet-server`, `tetrinetx`
@@ -64,11 +70,13 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ## Szimulációs stratégia
 
-* `dopewars -t` - gazdasági szimuláció
+* `dopewars -t` - gazdasági szimuláció, hálózati többjátékos
 * `empire` - sztochasztikus (VMS Empire vagy Classic Empire)
   * https://en.wikipedia.org/wiki/Empire_(1977_video_game)
+* https://github.com/blt/hamurabi
 * Intricacy - körökre osztott zárfeltörő rejtvény
   * http://mbays.freeshell.org/intricacy/
+* https://github.com/annacrombie/shell-tanks ágyúzás Scorched Earth mintájára
 * Star Traders - LAN multiplayer max. 8 játékossal
   * https://www.zap.org.au/projects/trader/
 * gorched - ágyúzás Scorched Earth mintájára
@@ -84,15 +92,21 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ### Táblás
 
+* https://github.com/haliphax/pybowl (bowling)
 * `el-ixir` - (inspiráció: Isoft, 1981)
 * `fairymax` - sakk
 * `gnubg` - Backgammon
+* https://sourceforge.net/projects/gnu-conquest/
 * `gnugo` - Go
 * `gnushogi -C` - Japán sakk
 * `gnuminishogi -C` - 5x5 Japán sakk
 * `mgt` - Go táblaszerkesztő és kiértékelő
-* `nettoe` - tic tac toe
+* `nettoe` - tic tac toe, hálózati többjátékos
+* https://github.com/trudeaua21/Othello-Game
+* othello https://www.ioccc.org/1987/lievaart/lievaart2.c
 * `pente -curses` - ötödölő
+* seabattle (inspiráció: battleship)
+  * http://www.deater.net/weave/vmwprod/seabattle.html
 * `sjaakii` - sakk
 * `werewolf` - JSON felülete van, manuálisan többjátékos, gépi játékos nélkül, inspiráció: Gyilkosos (Maffia, Vérfarkas)
   * https://en.wikipedia.org/wiki/Mafia_(party_game)
@@ -102,11 +116,13 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * 2048.c
   * https://github.com/mevdschee/2048.c
 * `animals` - betanítható barkóba
+* https://sourceforge.net/projects/ascii-dash/ (Boulder Dash)
 * ASCIIpOrtal
   * https://github.com/cymonsgames/ASCIIpOrtal
 * `atom4 -mt` - 2 játékos
 * `cavepacker` - több játékos hálózati Sokoban - **FIXME: nem megy parancssorból mert SDL ablakba rajzol!!**
 * `cavezofphear` - szórakoztató [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_dash) ([Supaplex](https://en.wikipedia.org/wiki/Supaplex)) klón
+* http://www.level7.org.uk/chroma/
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
 * Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja
@@ -115,10 +131,14 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
   * eredeti https://en.wikipedia.org/wiki/Catrap#Development_and_release
   * eredeti tokenizált basic-ben http://www.hardcoregaming101.net/catrap/mz700_pitman.zip
   * _Pitman (Catrap) puzzle game for Sharp MZ-700 computer in 1985_
+* http://npush.sourceforge.net/ (Sokoban)
 * `nudoku` - Sudoku
+* nuzzle https://github.com/dead-end/nuzzle
+* puzzl (sliding) https://github.com/pravj/puzzl
 * `sudoku`
 * XorCurses - be kell gyűjteni a maszkokat és meg kell találni a kijáratot
   * https://github.com/jwm-art-net/XorCurses
+* zombies https://www.thistledown.com.au/software/
 
 ## Kaland
 
@@ -131,9 +151,10 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
   * https://github.com/tmewett/BrogueCE
 * `cataclysm-dda-curses`
   * https://github.com/CleverRaven/Cataclysm-DDA
-* `crawl` Dungeon Crawl: Stone Soup
+* `crawl` Dungeon Crawl: Stone Soup, hálózati többjátékos
   * https://github.com/crawl/crawl
   * https://crawl.develz.org/
+  * https://crawl.tildeverse.org/
 * `gearhead`
 * `gearhead2`
 * `lambdahack`
@@ -246,6 +267,19 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `xaos -driver aa -aadriver curses` - fraktálok
 * `zivot` - Convey's game of life
 
+## Régi
+
+* http://www.steveshipway.org/software/wanderer/f_wanderer.html
+  * Boulderdash
+* https://github.com/hackerb9/ucbmaze1984 Mazewar, hálózati többjátékos
+
+## Online
+
+### MUD
+
+* http://thxmoo.org/
+* http://www.moolist.com/active.php
+
 ## Zárt
 
 * Privateer: ASCII-sector _(January 22nd, 2016)_
@@ -270,3 +304,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * https://blends.debian.org/junior/tasks/games-text
 * https://inconsolation.wordpress.com/tag/game/
 * https://ttygames.wordpress.com/
+* http://ascii-games.org/index.cgi?games
+* http://sdf.lonestar.org/index.cgi?tutorials/ascii-gaming
+* https://www.mobygames.com/browse/games/terminal/
+* https://www.dosgames.com/tag/ascii
