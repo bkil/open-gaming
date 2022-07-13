@@ -6,6 +6,7 @@
   <link rel='shortcut icon' type=image/x-icon href=data:image/x-icon;,>
   <meta http-equiv=x-dns-prefetch-control content=off>
   <meta name=robots content='noindex,nofollow,noarchive'>
+  <link rel=alternate type=application/x-asciicast href="((CAST))">
   <link rel=stylesheet type=text/css href=asciinema-player.css>
   <meta http-equiv="Content-Security-Policy" content="base-uri 'none'; default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'self'; style-src 'unsafe-inline' 'self'; connect-src 'self'; form-action 'none'; navigate-to 'none'">
   <style>
@@ -29,6 +30,9 @@
     <tr><td>0, 1, 2 ... 9<td>jump to 0%, 10%, 20% ... 90%
   </table>
 
+  <p><a href=https://github.com/asciinema/asciinema-player>asciinema player</a> Copyright © 2011-2022 Marcin Kulik</p>
+  <p>Content Copyright 2022 © bkil</p>
+
   <script src=asciinema-player.min.js></script>
   <script>
     'use strict';
@@ -39,10 +43,9 @@
         rows: ((ROWS)),
         autoPlay: true,
         preload: true,
-        loop: 2,
         speed: 2,
         idleTimeLimit: 2,
-        poster: 'npt:0:0',
+        poster: 'npt:1:0',
         fit: 'none'
     });
   </script>
