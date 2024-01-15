@@ -146,6 +146,8 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ### Roguelike
 
+* among-sus: hálózati többjátékos (netcat)
+  * https://sr.ht/~martijnbraam/among-sus/
 * `angband -mgcu` - nethack/Moria/Rogue
 * Brogue CE - egyjátékos
   * https://github.com/tmewett/BrogueCE
@@ -308,3 +310,4 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * http://sdf.lonestar.org/index.cgi?tutorials/ascii-gaming
 * https://www.mobygames.com/browse/games/terminal/
 * https://www.dosgames.com/tag/ascii
+* https://tajmone.github.io/awesome-interactive-fiction/
