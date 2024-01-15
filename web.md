@@ -54,6 +54,40 @@
 * https://worldofsolitaire.com/
 * https://cardgames.io/
 
+## Educational
+
+### CSS
+
+* https://github.com/flukeout/css-diner
+* https://github.com/thomaspark/gridgarden/
+* https://github.com/thomaspark/flexboxfroggy/
+
+### Editor
+
+* https://github.com/mi-lee/vim-adventures-in-elm
+
+### JavaScript
+
+* https://github.com/alexnisnevich/untrusted/
+
+### Linux sysadmin
+
+* https://github.com/fduran/sadservers
+
+### Shell
+
+* https://github.com/veltman/clmystery
+
+### SQL
+
+* https://github.com/Abstrct/Schemaverse
+* https://github.com/jschildgen/sql-island
+* https://github.com/NUKnightLab/sql-mysteries
+
+### VCS
+
+* https://github.com/git-learning-game/oh-my-git
+
 ## Lexical
 
 * https://github.com/mdanka/szozat
