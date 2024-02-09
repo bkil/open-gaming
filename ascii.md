@@ -61,6 +61,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 ### Tetris
 
 * `bastet`
+* https://github.com/pilosophos/mosaic-tetris
 * `netris` - hálózati többjátékos
 * `petris`
 * `termtris`
@@ -93,6 +94,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 ### Táblás
 
 * https://github.com/haliphax/pybowl (bowling)
+* https://github.com/mugyu/chinchin
 * `el-ixir` - (inspiráció: Isoft, 1981)
 * `fairymax` - sakk
 * `gnubg` - Backgammon
@@ -179,6 +181,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 * Python Rummy - römi
   * https://github.com/OrderAndCh4oS/Python-Rummy
+* https://github.com/eliasdorneles/usolitaire
 
 ## Oktató
 
@@ -281,6 +284,12 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 * http://thxmoo.org/
 * http://www.moolist.com/active.php
+
+### Közösségi
+
+* https://github.com/jmdejong/asciifarm
+* https://github.com/jifunks/botany
+* https://tilde.town/~troido/cadastre/
 
 ## Zárt
 
