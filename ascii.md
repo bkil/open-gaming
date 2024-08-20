@@ -39,6 +39,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * AstWar - 2 űrhajó lövöldözi egymást
   * https://savannah.nongnu.org/projects/astwar
 * `bombardier` - Commodore 16/Plus 4 Blitz16
+* https://github.com/bunburya/flying-robots
 * https://sourceforge.net/projects/gnuski/
 * https://github.com/gabrielvictorcf/just-asteroids
 * lexter - tetris szavakkal (2001)
@@ -55,6 +56,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * `piu-piu` - hálózati több játékos oldalnézet lövöldözős
 * ski
   * https://gitlab.com/esr/ski
+* https://github.com/mfey619/Terminal-Frogger
 * Zsnake - fordított snake
   * https://sourceforge.net/projects/znake-ulven/
 
@@ -110,6 +112,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * seabattle (inspiráció: battleship)
   * http://www.deater.net/weave/vmwprod/seabattle.html
 * `sjaakii` - sakk
+* https://github.com/KF-R/stratepai
 * `werewolf` - JSON felülete van, manuálisan többjátékos, gépi játékos nélkül, inspiráció: Gyilkosos (Maffia, Vérfarkas)
   * https://en.wikipedia.org/wiki/Mafia_(party_game)
 
@@ -144,7 +147,8 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ## Kaland
 
-* `open-adventure`
+* `open-adventure` https://gitlab.com/esr/open-adventure
+* https://github.com/wheybags/DungeonsAndDirectories
 
 ### Roguelike
 
@@ -317,6 +321,10 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * https://ttygames.wordpress.com/
 * http://ascii-games.org/index.cgi?games
 * http://sdf.lonestar.org/index.cgi?tutorials/ascii-gaming
+* https://sdfeu.org/w/tutorials:ascii-gaming#games_by_category
 * https://www.mobygames.com/browse/games/terminal/
 * https://www.dosgames.com/tag/ascii
 * https://tajmone.github.io/awesome-interactive-fiction/
+* https://archive.org/search?query=subject%3A%22BBS+games%22
+* https://bbs.foolsquarter.com/files.html
+* http://archives.thebbs.org/
