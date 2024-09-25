@@ -48,6 +48,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 
 * https://libregamewiki.org/
 * https://osgameclones.com/
+* https://github.com/opengaming/osgameclones
 * https://trilarion.github.io/opensourcegames/
 * https://curlie.org/Computers/Open_Source/Software/Games
 * https://directory.fsf.org/wiki/Category/Game
