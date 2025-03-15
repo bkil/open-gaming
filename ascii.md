@@ -118,7 +118,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ## Rejtvény
 
-* 2048.c
+* `2048`
   * https://github.com/mevdschee/2048.c
 * `animals` - betanítható barkóba
 * https://sourceforge.net/projects/ascii-dash/ (Boulder Dash)
@@ -328,3 +328,6 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * https://archive.org/search?query=subject%3A%22BBS+games%22
 * https://bbs.foolsquarter.com/files.html
 * http://archives.thebbs.org/
+* https://libregamewiki.org/Category:Text-mode_games
+* https://libregamewiki.org/Category:Text_games
+* https://libregamewiki.org/Category:Terminal_games
