@@ -25,7 +25,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 
 * [stream-screen.sh](stream-screen.sh)
 
-## References
+## Resources
 
 ### News
 
@@ -77,7 +77,6 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code
 * https://en.wikipedia.org/wiki/List_of_game_engine_recreations
 * https://en.wikipedia.org/wiki/List_of_open-source_video_games
-* https://en.wikipedia.org/wiki/List_of_commercial_video_games_released_as_freeware
 * https://en.wikipedia.org/wiki/List_of_game_engines#Open-source_engines
 * https://en.wikipedia.org/wiki/Category:Linux_games
 * https://en.wikipedia.org/wiki/Source_port
@@ -99,7 +98,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * http://www.dotslashplay.it/en/start
 * https://gitlab.com/librebob/athenaeum
 
-### Links
+### References
 
 * https://wiki.debian.org/Games/Links
 * https://wiki.debian.org/Game
@@ -107,6 +106,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 
 ## Proprietary
 
+* https://en.wikipedia.org/wiki/List_of_commercial_video_games_released_as_freeware
 * https://lutris.net/
 * https://github.com/derrod/legendary
 * https://steam.fandom.com/wiki/List_of_DRM-free_games
