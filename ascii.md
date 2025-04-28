@@ -152,8 +152,11 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 
 ### Roguelike
 
+* acehack: https://github.com/deepy/acehack
 * among-sus: hálózati többjátékos (netcat)
   * https://sr.ht/~martijnbraam/among-sus/
+  * https://github.com/cfunkhouser/among-sus
+  * https://github.com/Raniconduh/among-foss
 * `angband -mgcu` - nethack/Moria/Rogue
 * Brogue CE - egyjátékos
   * https://github.com/tmewett/BrogueCE
@@ -283,6 +286,10 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * https://github.com/hackerb9/ucbmaze1984 Mazewar, hálózati többjátékos
 
 ## Online
+
+### IRC
+
+*  https://github.com/lykoss/lykos
 
 ### MUD
 
