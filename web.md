@@ -147,3 +147,7 @@
   * http://www.flashbynight.com/drench/
 * https://en.wikipedia.org/wiki/Cracking_the_Cryptic
 * https://js13kgames.com/
+
+## External references
+
+* https://fmhy.net/gamingpiracyguide#browser-games
