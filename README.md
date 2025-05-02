@@ -36,6 +36,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://www.omgubuntu.co.uk/tag/gaming
 * https://web.archive.org/web/20210423061258/social.freegamedev.net/feed/planet
 * https://web.archive.org/web/20210423042551/https://social.freegamedev.net/feed/devplanet
+* https://codeberg.org/FOSSgaming/pages-data
 
 ### Forums
 
