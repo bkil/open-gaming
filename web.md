@@ -11,6 +11,7 @@
 * http://slither.io/
 * https://slowroads.io/
 * https://mashpoe.github.io/1D-Game/
+* https://Worms.Zone/
 
 ## Adventure
 
@@ -147,6 +148,9 @@
   * http://www.flashbynight.com/drench/
 * https://en.wikipedia.org/wiki/Cracking_the_Cryptic
 * https://js13kgames.com/
+* https://community.fandom.com/wiki/Template:FooterIoGames
+* https://en.wikipedia.org/wiki/List_of_browser_games
+* https://en.wikipedia.org/wiki/Browser_game
 
 ## External references
 
