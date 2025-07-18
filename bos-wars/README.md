@@ -15,6 +15,13 @@ wget -P $H/data/maps/towdef.map \
   https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/setup.sms \
   https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/presentation.smp \
   https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/terrain.lua \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/patch.lua \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d00.png \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d08.png \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d17.png \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d20.png \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d21.png \
+  https://raw.githubusercontent.com/bkil/open-gaming/refs/heads/master/bos-wars/towdef.map/moon-d22.png \
   -nc
 
 boswars -d $H/data
