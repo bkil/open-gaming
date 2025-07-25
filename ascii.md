@@ -74,6 +74,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 ## Szimulációs stratégia
 
 * `dopewars -t` - gazdasági szimuláció, hálózati többjátékos
+* https://github.com/Reconfirefly/drugwars
 * `empire` - sztochasztikus (VMS Empire vagy Classic Empire)
   * https://en.wikipedia.org/wiki/Empire_(1977_video_game)
 * https://github.com/blt/hamurabi
@@ -329,6 +330,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * http://ascii-games.org/index.cgi?games
 * http://sdf.lonestar.org/index.cgi?tutorials/ascii-gaming
 * https://sdfeu.org/w/tutorials:ascii-gaming#games_by_category
+* https://wiki.sdf.org/doku.php?id=ascii_gaming_on_sdf
 * https://www.mobygames.com/browse/games/terminal/
 * https://www.dosgames.com/tag/ascii
 * https://tajmone.github.io/awesome-interactive-fiction/
