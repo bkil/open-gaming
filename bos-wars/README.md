@@ -47,7 +47,7 @@ boswars -d $H/data
 * [./towdef.map/presentation.smp](./towdef.map/presentation.smp)
 * [./towdef.map/setup.sms](./towdef.map/setup.sms)
 * [./towdef.map/terrain.lua](./towdef.map/terrain.lua)
-
+* [./towdef.map/patch.lua](./towdef.map/patch.lua)
 
 ```
 #                                           nnnnn#
