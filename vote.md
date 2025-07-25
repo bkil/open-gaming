@@ -28,3 +28,6 @@ Endless Sky|RTS|Elite, Escape Velocity, Star Control|nem|https://en.wikipedia.or
 FlightGear|FGFS|Flight Simulator|igen|https://en.wikipedia.org/wiki/FlightGear|2023|||+|||?||||
 OpenRa|RTS|C&C, Red Alert, Dune|igen|https://www.openra.net/|2023||||||?|||6/9|
 0 A.D.|RTS|Age of Empires|igen|https://en.wikipedia.org/wiki/0_A.D._(video_game)|2022||||||?||||+
+RVGL|race|Re-Volt||https://re-volt.gitlab.io/rvgl-launcher/|2025|||||+|?||||
+Warsow|FPS|Quake II Arena|igen|https://en.wikipedia.org/wiki/Warsow_(video_game)|2016|||||+|4/9||||
+Warfork|FPS|Quake II Arena, Warsow|igen|https://warfork.com/|2025|||||+|4/9||||
