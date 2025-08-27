@@ -151,6 +151,7 @@
 * https://community.fandom.com/wiki/Template:FooterIoGames
 * https://en.wikipedia.org/wiki/List_of_browser_games
 * https://en.wikipedia.org/wiki/Browser_game
+* https://github.com/muthuspark/javascript-games
 
 ## External references
 
