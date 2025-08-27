@@ -91,6 +91,7 @@ You can create a virtual camera to share your screen as a webcam even if you are
 * https://lgames.sourceforge.io/about.php
 * https://reddit.com/r/linux_gaming/wiki/freegames
 * https://www.icculus.org/lgfaq/gamelist.php
+* https://codeberg.org/lmemsm/delightful-educational-games
 
 ### Platforms
 
