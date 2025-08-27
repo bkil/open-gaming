@@ -131,12 +131,6 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * http://www.level7.org.uk/chroma/
 * `freesweep` - aknakereső
 * `greed` - meg kell enni a színes számokat
-* Pitman (Tristar, 2004) - DOS, 3kB, 22 pályával, Sokoban és Bouldar Dash kombinációja
-  * hozzászólások https://www.pouet.net/prod.php?which=12206
-  * honlap http://franck.charlet.pagesperso-orange.fr/games.html
-  * eredeti https://en.wikipedia.org/wiki/Catrap#Development_and_release
-  * eredeti tokenizált basic-ben http://www.hardcoregaming101.net/catrap/mz700_pitman.zip
-  * _Pitman (Catrap) puzzle game for Sharp MZ-700 computer in 1985_
 * http://npush.sourceforge.net/ (Sokoban)
 * `nudoku` - Sudoku
 * nuzzle https://github.com/dead-end/nuzzle
@@ -145,6 +139,22 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 * XorCurses - be kell gyűjteni a maszkokat és meg kell találni a kijáratot
   * https://github.com/jwm-art-net/XorCurses
 * zombies https://www.thistledown.com.au/software/
+
+### Pitman
+
+I view Pitman (2004) by Tristar as an influential game with colors that can be played from the DOS console (or dosbox). It only weighs 3kB and packs 22 levels. It reminds one of a combination of Sokoban and Bouldar Dash. Comments:
+* https://www.pouet.net/prod.php?which=12206
+Web page:
+* https://hitchhikr.net/games.html
+The original was the puzzle game called Catrap for the Sharp MZ-700 computer from 1985:
+* https://en.wikipedia.org/wiki/Catrap#Development_and_release
+Source code in BASIC:
+* https://web.archive.org/web/20160506183825if_/http://gamepreservation.derboo.de/pitman_source_mbasic.zip
+* http://www.hardcoregaming101.net/catrap/mz700_pitman.zip
+* https://web.archive.org/web/20160506182949if_/http://gamepreservation.derboo.de/pitman_source_original.zip
+* https://web.archive.org/web/20160507002709if_/http://gamepreservation.derboo.de/pitman_source_sbasic.zip
+Web remake:
+* https://bkil.gitlab.io/static-wonders.js/game/catmazes.htm
 
 ## Kaland
 
