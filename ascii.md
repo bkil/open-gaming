@@ -97,6 +97,7 @@ Az szintén meg van jelölve ahol parancssori paraméter választja ki a termin�
 ### Táblás
 
 * https://github.com/haliphax/pybowl (bowling)
+* https://github.com/thomas-mauran/chess-tui
 * https://github.com/mugyu/chinchin
 * `el-ixir` - (inspiráció: Isoft, 1981)
 * `fairymax` - sakk
@@ -304,8 +305,8 @@ Web remake:
 
 ### MUD
 
-* http://thxmoo.org/
-* http://www.moolist.com/active.php
+* https://thxmoo.org/
+* https://www.moolist.com/active.php
 
 ### Közösségi
 
