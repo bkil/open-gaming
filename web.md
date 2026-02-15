@@ -40,6 +40,8 @@
 > Akasztófajáték (hangman)
 
 * https://themahjong.com/
+* https://github.com/freeboardgames/FreeBoardGames.org
+* https://boardgame.io/documentation/#/notable_projects
 
 ### Chess
 
